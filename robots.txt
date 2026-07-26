@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://wwwbezcom.github.io/sitemap.xml

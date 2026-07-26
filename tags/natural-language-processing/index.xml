@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Natural Language Processing | Enze Bai Personal Webpage</title><link>https://wwwbezcom.github.io/tags/natural-language-processing/</link><atom:link href="https://wwwbezcom.github.io/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml"/><description>Natural Language Processing</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><image><url>https://wwwbezcom.github.io/media/icon_hu_eee4a95885829ab2.png</url><title>Natural Language Processing</title><link>https://wwwbezcom.github.io/tags/natural-language-processing/</link></image><item><title>AI-Enabled Sports Performance &amp; Athlete Development</title><link>https://wwwbezcom.github.io/projects/ai-sports-performance-athlete-development/</link><pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate><guid>https://wwwbezcom.github.io/projects/ai-sports-performance-athlete-development/</guid><description>&lt;p&gt;&lt;strong&gt;September 2021 – Present&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Associated with United Chinese Basketball Association&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Designed and developed AI-driven technologies supporting athlete evaluation, basketball analytics, and community engagement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed BERT- and deep learning-based models for player ranking using scouting reports, game statistics, and media evaluations.&lt;/li&gt;
+&lt;li&gt;Built computer vision pipelines for basketball action recognition and real-time performance analysis.&lt;/li&gt;
+&lt;li&gt;Designed a basketball community platform integrating player engagement, court discovery, and event management.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="player-development-in-practice"&gt;Player Development in Practice&lt;/h2&gt;
+&lt;p&gt;Alongside analytics development, I observe and document high-level youth basketball training to connect technical models with real coaching environments. Sessions with the New York Rens AAU program—which featured Don Bosco Prep guard
+, the No. 2 overall player in the 2024 high school class—inform my understanding of player development, practice design, and the on-court context behind performance data.&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Observing a New York Rens AAU training session."
+srcset="https://wwwbezcom.github.io/projects/ai-sports-performance-athlete-development/me_hu_f94449b5cd87f37c.webp 320w, https://wwwbezcom.github.io/projects/ai-sports-performance-athlete-development/me_hu_ab0d9b2124b7e40e.webp 480w, https://wwwbezcom.github.io/projects/ai-sports-performance-athlete-development/me_hu_7bd5ede5fbe58e60.webp 570w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/projects/ai-sports-performance-athlete-development/me_hu_f94449b5cd87f37c.webp"
+width="570"
+height="760"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="New York Rens players and coaches during a team training session."
+srcset="https://wwwbezcom.github.io/projects/ai-sports-performance-athlete-development/training_hu_1bdbf552f3b713fd.webp 320w, https://wwwbezcom.github.io/projects/ai-sports-performance-athlete-development/training_hu_b192ecffbe48f792.webp 480w, https://wwwbezcom.github.io/projects/ai-sports-performance-athlete-development/training_hu_62ef4d41ad481d7a.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/projects/ai-sports-performance-athlete-development/training_hu_1bdbf552f3b713fd.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;</description></item></channel></rss>

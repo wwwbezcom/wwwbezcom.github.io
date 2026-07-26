@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Human-Centered AI | Enze Bai Personal Webpage</title><link>https://wwwbezcom.github.io/tags/human-centered-ai/</link><atom:link href="https://wwwbezcom.github.io/tags/human-centered-ai/index.xml" rel="self" type="application/rss+xml"/><description>Human-Centered AI</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://wwwbezcom.github.io/media/icon_hu_eee4a95885829ab2.png</url><title>Human-Centered AI</title><link>https://wwwbezcom.github.io/tags/human-centered-ai/</link></image><item><title>Smart Glasses and AI Platform for Emergency Medical Services</title><link>https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/</guid><description>&lt;p&gt;&lt;strong&gt;January 2021 – Present&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Associated with Pace University&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Designed and developed an AI-enabled smart glasses platform to support real-time communication, clinical documentation, and decision support for emergency medical services (EMS).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed hands-free smart glasses, AI-assisted documentation, and clinical decision support systems.&lt;/li&gt;
+&lt;li&gt;Evaluated the platform with 30+ EMS teams and 120+ EMS/ED providers through user-centered design and usability studies.&lt;/li&gt;
+&lt;li&gt;Published peer-reviewed research in CSCW, ICHI, IJHCI, and AMIA.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="smart-glasses-prototype"&gt;Smart Glasses Prototype&lt;/h2&gt;
+&lt;p&gt;The wearable interface supports hands-free access to information while allowing EMS providers to remain focused on patient care and clinical tasks.&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Side view of the Vuzix smart glasses prototype used in the project."
+srcset="https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/side_hu_47aed6f328dcf9de.webp 320w, https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/side_hu_c7c476980dc0f833.webp 480w, https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/side_hu_d1a6dba9aae96001.webp 549w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/side_hu_47aed6f328dcf9de.webp"
+width="549"
+height="760"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Testing the hands-free smart glasses workflow during a clinical simulation."
+srcset="https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/back_hu_6f15b3846f0d14dc.webp 320w, https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/back_hu_e7bfa35c6082e998.webp 480w, https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/back_hu_d5386b835e498e3e.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/back_hu_6f15b3846f0d14dc.webp"
+width="760"
+height="760"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id="demonstration-and-research-exchange"&gt;Demonstration and Research Exchange&lt;/h2&gt;
+&lt;p&gt;The platform has been demonstrated to researchers and clinical collaborators to gather feedback on usability, workflow integration, and future deployment in prehospital care.&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Demonstrating the smart glasses platform alongside the project research poster."
+srcset="https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/promo_jared_hu_2d8922c29b988900.webp 320w, https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/promo_jared_hu_9ef05d2002f76c68.webp 480w, https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/promo_jared_hu_9f7bb029e01efd0b.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/promo_jared_hu_2d8922c29b988900.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Discussing the hands-free smart glasses system during a research demonstration."
+srcset="https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/promo_1_hu_f32b41a34bfa11dd.webp 320w, https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/promo_1_hu_fb5f402b2a1a0aea.webp 480w, https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/promo_1_hu_5778ee29f0105720.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/promo_1_hu_f32b41a34bfa11dd.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="A participant trying the smart glasses during the project demonstration."
+srcset="https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/promo_2_hu_f8a28aef0501ebbd.webp 320w, https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/promo_2_hu_a772f11453b8c0a7.webp 480w, https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/promo_2_hu_6e69a41f36da36.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/projects/smart-glasses-ai-platform-ems/promo_2_hu_f8a28aef0501ebbd.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;</description></item></channel></rss>

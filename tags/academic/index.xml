@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Academic | Enze Bai Personal Webpage</title><link>https://wwwbezcom.github.io/tags/academic/</link><atom:link href="https://wwwbezcom.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml"/><description>Academic</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2026 00:00:00 +0000</lastBuildDate><image><url>https://wwwbezcom.github.io/media/icon_hu_eee4a95885829ab2.png</url><title>Academic</title><link>https://wwwbezcom.github.io/tags/academic/</link></image><item><title>🥽 EMS Documentation Simulation Study</title><link>https://wwwbezcom.github.io/blog/documentation-simulation/</link><pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate><guid>https://wwwbezcom.github.io/blog/documentation-simulation/</guid><description>&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="EMS simulation study environment"
+srcset="https://wwwbezcom.github.io/blog/documentation-simulation/simulation-room_hu_927d244f3eb49c6e.webp 320w, https://wwwbezcom.github.io/blog/documentation-simulation/simulation-room_hu_b90e79d3b3f95d5b.webp 480w, https://wwwbezcom.github.io/blog/documentation-simulation/simulation-room_hu_4fb35cf7f1e8d657.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/blog/documentation-simulation/simulation-room_hu_927d244f3eb49c6e.webp"
+width="760"
+height="571"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I finally finished my last piece of dissertation work - AI-enabled documentation system featured AR-based smart glasses for EMS in both CO and NYC with my advisor, Dr.
+! Thanks for the organization and simulation setup support from
+, MD, MPH/MSPH (as well as Nicolena Mitchell and Carl Elston), and
+, PhD, DNP, MS, MPH, RN, FSSH, FAAN. Four months after finishing at the Mount Sinai STAR Center, we had a great journey in Denver!&lt;/p&gt;
+&lt;h2 id="ideation"&gt;Ideation&lt;/h2&gt;
+&lt;p&gt;This system was designed around a simple goal: capture patient care process as it happens without taking providers&amp;rsquo; hands or attention away from the patient. The smart-glass application supports medication scanning, contextual photo and video capture, and flexible voice dictation during care. Captured information is then transferred to a connected tablet-based EHR interface for transcription and documentation support.&lt;/p&gt;
+&lt;p&gt;The AI transforms reviewed dictation into structured field suggestions and an editable patient-care narrative. Clinicians can inspect highlighted evidence, correct extracted values, change the destination EHR field, and choose whether to append, replace, or reject each suggestion. This human-in-the-loop design preserves clinician control while shifting EMS documentation from a delayed, recall-based task toward a real-time capture-and-review workflow.&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Frederick-Firestone Fire Rescue station"
+srcset="https://wwwbezcom.github.io/blog/documentation-simulation/denver/fire_station_hu_9c3b16499ffa198a.webp 320w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/fire_station_hu_f2524790cbbc7baf.webp 480w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/fire_station_hu_23f1ddcc994f0f84.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/blog/documentation-simulation/denver/fire_station_hu_9c3b16499ffa198a.webp"
+width="760"
+height="572"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;div class="markmap" style="height: 320px;"&gt;
+&lt;pre&gt;- Smart Glass–Assisted AI Documentation
+- Hands-Free Capture
+- Medication scanning
+- Contextual photos and video
+- Voice dictation
+- AI Documentation Support
+- Automatic transcription
+- Clinical information extraction
+- EHR field mapping
+- Narrative generation
+- EMS in the Loop
+- Review highlighted evidence
+- Edit or reject suggestions
+- Control final EHR entry
+- Workflow Design
+- Real-time capture
+- Tablet-based review
+- Existing EHR integration
+- Simulation Evaluation
+- 12 two-clinician EMS teams
+- Rural and urban sites
+- Documentation time and accuracy
+- Usability, workload, and trust&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h2 id="beautiful-denver"&gt;Beautiful Denver&lt;/h2&gt;
+&lt;p&gt;Come, lend an ear to Denver&amp;rsquo;s song,&lt;br&gt;
+where dawn lays gold on Sinai&amp;rsquo;s crown,&lt;br&gt;
+and every winding mountain road&lt;br&gt;
+leads weary scholars out of town.&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="A mountain view from Mount Sinai"
+srcset="https://wwwbezcom.github.io/blog/documentation-simulation/denver/mt_sinai_view_hu_2aaf6f3cbbe53460.webp 320w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/mt_sinai_view_hu_b342a1be32fcefa9.webp 480w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/mt_sinai_view_hu_a9daeca11bf06cdc.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/blog/documentation-simulation/denver/mt_sinai_view_hu_2aaf6f3cbbe53460.webp"
+width="760"
+height="572"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="The road unfolding through the Colorado mountains"
+srcset="https://wwwbezcom.github.io/blog/documentation-simulation/denver/road_view_hu_72d74c4da4b69be8.webp 320w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/road_view_hu_cc0db747f2558eb3.webp 480w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/road_view_hu_9f50066f3b2a8da9.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/blog/documentation-simulation/denver/road_view_hu_72d74c4da4b69be8.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;High on the ridge, where thin winds race,&lt;br&gt;
+bold riders fly down stone and pine;&lt;br&gt;
+below, North Table Mountain keeps&lt;br&gt;
+its silent watch like some old shrine.&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Mountain-bike trails on Mount Sinai"
+srcset="https://wwwbezcom.github.io/blog/documentation-simulation/denver/mt_sinai_bike_ride_hu_f547efa9e897778d.webp 320w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/mt_sinai_bike_ride_hu_a4f8feeca19d4d09.webp 480w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/mt_sinai_bike_ride_hu_6a30484c4c8b49b0.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/blog/documentation-simulation/denver/mt_sinai_bike_ride_hu_f547efa9e897778d.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="North Table Mountain viewed from above"
+srcset="https://wwwbezcom.github.io/blog/documentation-simulation/denver/north_table_mountain_hu_1a34ec69258f1710.webp 320w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/north_table_mountain_hu_3885c4c7e3e6fad7.webp 480w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/north_table_mountain_hu_176314cd7ac49ec5.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/blog/documentation-simulation/denver/north_table_mountain_hu_1a34ec69258f1710.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Then thunder moved across the grass—&lt;br&gt;
+not storm, nor drum, nor marching men,&lt;br&gt;
+but bison beneath a bruised-blue sky,&lt;br&gt;
+with distant Denver beyond the fen.&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Bison at Rocky Mountain Arsenal"
+srcset="https://wwwbezcom.github.io/blog/documentation-simulation/denver/bisons_hu_37637d0ad7c153d8.webp 320w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/bisons_hu_90221c3c960c4973.webp 480w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/bisons_hu_5bfa86bd3c2e56c4.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/blog/documentation-simulation/denver/bisons_hu_37637d0ad7c153d8.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;At Boulder, halls of ruddy stone&lt;br&gt;
+stood warm beneath the western light;&lt;br&gt;
+while ancient rocks, rain-dark and red,&lt;br&gt;
+rose like old keeps against the night.&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="University of Colorado Boulder"
+srcset="https://wwwbezcom.github.io/blog/documentation-simulation/denver/U_CO_Boulder_View_hu_190d7fb34c73b994.webp 320w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/U_CO_Boulder_View_hu_935f93ebbd14d123.webp 480w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/U_CO_Boulder_View_hu_d7ec2e20ac91ca52.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/blog/documentation-simulation/denver/U_CO_Boulder_View_hu_190d7fb34c73b994.webp"
+width="760"
+height="572"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Red-rock formations in a Colorado park"
+srcset="https://wwwbezcom.github.io/blog/documentation-simulation/denver/red_rocks_hu_d4f831ea8b57f39.webp 320w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/red_rocks_hu_f02be6fc5255e284.webp 480w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/red_rocks_hu_66ec1b1f4e08323a.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/blog/documentation-simulation/denver/red_rocks_hu_d4f831ea8b57f39.webp"
+width="760"
+height="572"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;And when the road had claimed its due,&lt;br&gt;
+we found where lamps and barrels gleam;&lt;br&gt;
+a modest feast, a traveler’s cup,&lt;br&gt;
+and one last toast to field and dream.&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="A well-earned stop among the barrels"
+srcset="https://wwwbezcom.github.io/blog/documentation-simulation/denver/beer_factory_hu_68deea3e1cd6548f.webp 320w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/beer_factory_hu_af1f553c78a0bf3a.webp 480w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/beer_factory_hu_5b82706011fe2ac1.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/blog/documentation-simulation/denver/beer_factory_hu_68deea3e1cd6548f.webp"
+width="760"
+height="572"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;An exciting and tiring trip. Us after finishing it:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Two thoroughly exhausted cats"
+srcset="https://wwwbezcom.github.io/blog/documentation-simulation/denver/cats_hu_6bcc040a57a86596.webp 320w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/cats_hu_f1363bc2a05970c0.webp 480w, https://wwwbezcom.github.io/blog/documentation-simulation/denver/cats_hu_4af84bbeade31856.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://wwwbezcom.github.io/blog/documentation-simulation/denver/cats_hu_6bcc040a57a86596.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id="todo-lists"&gt;Todo lists&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Publications&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Dissertation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="thank-you-for-reading-"&gt;Thank you for reading! 🙏&lt;/h2&gt;</description></item></channel></rss>
